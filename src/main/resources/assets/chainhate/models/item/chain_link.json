@@ -1,6 +1,6 @@
 {
-  "parent": "items/generated",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "chainhate:items/chain_link"
+    "layer0": "chainhate:item/chain_link"
   }
 }
